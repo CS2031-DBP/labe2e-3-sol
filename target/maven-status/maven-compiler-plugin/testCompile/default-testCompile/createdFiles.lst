@@ -1,0 +1,4 @@
+org/e2e/labe2e03/LabE2e03ApplicationTests.class
+org/e2e/labe2e03/ride/application/RideControllerTest.class
+org/e2e/labe2e03/TestLabE2e03Application.class
+org/e2e/labe2e03/ride/infrastructure/RideRepositoryTest.class
